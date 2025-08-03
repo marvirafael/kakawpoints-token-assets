@@ -1,0 +1,12 @@
+{
+  "name": "Kakaw Points",
+  "symbol": "KAKAW",
+  "decimals": 0,
+  "description": "1 KAKAW = 1kg of dried cacao beans. A cooperative token for fair trade and reforestation.",
+  "website": "https://anituforest.com",
+  "socials": {
+    "twitter": "https://twitter.com/anituforest",
+    "telegram": "https://t.me/anituforest",
+    "github": "https://github.com/YOUR_GITHUB_USERNAME/kakawpoints-token-assets"
+  }
+}
